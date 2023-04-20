@@ -1,4 +1,4 @@
-### **07. Einen alten Programmstand WIEDERHERSTELLEN >> "Aber commits bleiben!""**
+### **Einen alten Programmstand WIEDERHERSTELLEN >> "Aber commits bleiben!""**
 
 #### **Video:**  [WIEDERHERSTELLEN](https://maxeythschulede-my.sharepoint.com/:v:/g/personal/schwaiger_max-eyth-schule_de1/EWjdZ131Fz1Hh0SjxM0Xr7QB3ZD9BmdXy4XakDRAofhw4g?e=nFrrHg) 🎞
 
